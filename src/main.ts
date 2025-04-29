@@ -1,1 +1,1 @@
-location.replace("https://We1rdoYT.github.io"); 
+location.replace("https://We1rdoYT.github.io");
