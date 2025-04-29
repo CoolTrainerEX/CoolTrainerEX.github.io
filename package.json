@@ -11,5 +11,19 @@
   "devDependencies": {
     "typescript": "~5.7.2",
     "vite": "^6.3.1"
-  }
+  },
+  "description": "Official CoolTrainerEX website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoolTrainerEX/CoolTrainerEX.github.io.git"
+  },
+  "keywords": [
+    "CoolTrainerEX"
+  ],
+  "author": "CoolTrainerEX",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/CoolTrainerEX/CoolTrainerEX.github.io/issues"
+  },
+  "homepage": "https://CoolTrainerEX.github.io"
 }
